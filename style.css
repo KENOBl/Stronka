@@ -1,0 +1,114 @@
+body {
+  color: rgb(43, 40, 40);
+  background-color: #1a1919;
+  overflow-x: hidden;
+}
+
+.garage{
+color: rgb(255, 196, 0);
+font-size: 70px;
+}
+
+.carousel {
+  margin-bottom: 3rem;
+}
+
+.carousel-item {
+  height: 40rem;
+}
+
+#logo{
+height: 200px;
+width: 250px;
+}
+
+span{
+font-size: 70px;
+color: white;
+}
+
+#auta{
+color: rgb(255, 196, 0);
+font-size: 30px;
+}
+
+#link:hover{
+color: rgb(255, 196, 0);
+}
+
+#album{
+height: 120px;
+width: 150px;
+}
+
+#tytul{
+color: rgb(43, 40, 40);
+font-size: 30px;
+font-weight: bold;
+}
+
+#oferta{
+background-color: rgb(204, 198, 198);
+}
+
+#listy{
+background-color: rgb(39, 39, 39);
+color: white;
+}
+
+#zawartosc{
+background-color: rgb(204, 198, 198);
+}
+
+button{
+color: rgb(255, 196, 0);
+}
+
+.accordion-button::after {
+background-color: rgb(255, 196, 0);
+border-radius: 25%;
+font-size: 1px;
+color: #000 !important;
+}
+
+.accordion-button-active {
+background-color: rgb(255, 196, 0);
+border-radius: 25%;
+font-size: 1px;
+color: #000 !important;
+}
+
+.accordion-button-link{
+color: #000 !important;
+}
+
+#kontakt{
+padding-top: 2rem;
+}
+
+#kontakty{
+font-size: 25px;
+color: white;
+}
+
+#kontakty2{
+font-size: 30px;
+color: rgb(255, 196, 0);
+}
+
+#album_div{
+padding-top: 1rem;
+padding-bottom: 3rem;
+}
+
+.accordion{
+  width: 1500px;
+}
+
+#duza{
+  width: 1300px;
+}
+
+#mala{
+  width: 200px;
+}
